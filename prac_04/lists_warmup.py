@@ -26,3 +26,5 @@ print(numbers[2:])
 # Print whether 9 is an element of numbers
 print(9 in numbers)
 
+
+
