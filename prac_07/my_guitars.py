@@ -7,7 +7,7 @@ def read_guitars_from_file(file_name):
             line = line.strip()
             if line:
                 name, year, cost = line.split(",")
-                guitar = Guitar(name, int(year), float(cost))
+       s        guitar = Guitar(name, int(year), float(cost))
                 guitars.append(guitar)
     return guitars
 
