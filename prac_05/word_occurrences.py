@@ -3,7 +3,7 @@ CP1404: Practical 5
 Word occurrences
 
 Estimate: 25 minutes
-Actual:   35 minutes
+Actual:   36 minutes
 """
 
 # Dictionary to store word counts

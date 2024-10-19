@@ -3,7 +3,7 @@ CP1404: Practical 5
 Emails
 
 Estimate: 30 minutes
-Actual:   40 minutes
+Actual:   39 minutes
 """
 
 
