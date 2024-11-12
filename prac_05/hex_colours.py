@@ -17,7 +17,8 @@ COLOUR_CODES = {
     "black": "#000000",
     "blue": "#0000ff",
     "brown": "#a52a2a",
-    "chartreuse": "#7fff00"
+    "chartreuse": "#7fff00",
+    "chocolate": "#d2691e"
 }
 
 # Prompt the user for input and continue until a blank input is given
